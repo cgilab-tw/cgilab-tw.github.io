@@ -6,55 +6,62 @@
 
 ## Graduate Students
 
-|  Ph.D. Students  | Email                  |
-| :--------------: | ---------------------- |
-|      何國豪      | lukewayne123@gmail.com |
-|      林九州      | dsobscure@outlook.com  |
-|      顧聞博      | GWENBO@gmail.com       |
-|      葉于榕      | yjyeh0@gmail.com     |
-|      朱孝紋      | wish8642@gmail.com     |
-| Markus Fjellheim | markus@fjellheim.org   |
-|      林尚霆      | shunbrea@gmail.com     |
-|      孟昶緻      | mcc.cs11@nycu.edu.tw   |
+|  Ph.D. Students  | Email                   |
+| :--------------: | ----------------------- |
+|      顧聞博      | GWENBO@gmail.com         |
+|      葉于榕      | yjyeh0@gmail.com         |
+|      朱孝紋      | wish8642@gmail.com       |
+| Markus Fjellheim | markus@fjellheim.org    |
+|      孟昶緻      | mcc.cs11@nycu.edu.tw     |
+|      劉順松      | lss.cs14@nycu.edu.tw     |
+|      鄭美慧      | miranda.cs14@nycu.edu.tw |
 
-| Master Students | Email                      |
-| :-------------: | -------------------------- |
-|     李駿逸      | gcobs070796@gmail.com      |
-|     蔡金玲      | linn708682@gmail.com       |
-|     林其璜      | luke123132112@gmail.com    |
-|     邱恆毅      | 5542045aa@gmail.com        |
-|     王瑞渝      | rabbit922w@gmail.com       |
-|     蔡昀叡      | b08202011.cs12@nycu.edu.tw |
-|     陳建樺      | x21530317x@gmail.com       |
-|     張孝全      | zekeabc@gmail.com          |
-|     李任本耀    | bod.lee.ee13@nycu.edu.tw   |
-|     羅凱威      | a23202418@gmail.com        |
-|     郭建廷      | gjt.cs13@nycu.edu.tw       |
-|     楊右宇      | royyang901203@gmail.com    |
-|     李謙蓉      | vicki122334567@gmail.com   |
+| Master Students | Email                        |
+| :-------------: | ---------------------------- |
+|     李駿逸      | gcobs070796@gmail.com         |
+|     林其璜      | luke123132112@gmail.com       |
+|     邱恆毅      | 5542045aa@gmail.com           |
+|     王瑞渝      | rabbit922w@gmail.com          |
+|     蔡昀叡      | b08202011.cs12@nycu.edu.tw    |
+|     陳建樺      | x21530317x@gmail.com          |
+|     張孝全      | zekeabc@gmail.com             |
+|     李任本耀    | bod.lee.ee13@nycu.edu.tw      |
+|     羅凱威      | a23202418@gmail.com           |
+|     郭建廷      | gjt.cs13@nycu.edu.tw          |
+|     楊右宇      | royyang901203@gmail.com       |
+|     李謙蓉      | vicki122334567@gmail.com      |
 |     黃竑睿      | rayhuang0901.cs13@nycu.edu.tw |
 |     黃聖祐      | shengyouhuang620@gmail.com    |
-|     張子中      | david97099@gmail.com       |
+|     張子中      | david97099@gmail.com          |
+|     林冠宇	  | ericlin.cs13@nycu.edu.tw      |
+|     洪淵傳	  | yhdtoaomw@gmail.com           |
+|     王駿睿	  | wang.ray0321.cs13@nycu.edu.tw |
+|     蘇暐中	  | st1020575@gmail.com           |
+|     傅莉妮	  | yfni.cs10@nycu.edu.tw         |
+|     陳幸妤	  | cindychen20030212@gmail.com   |
+|     李宇哲	  | lijason9195@gmail.com         |
 
 ## Alumni (in graduate years; including on-the-job program)
 
 | Ph.D. Students |  Name  | Current Job                         |
 | :------------: | :----: | ----------------------------------- |
-|      1999      | 陳隆彬 | 東海大學副教授                      |
-|      2006      | 徐健智 | N.A.                                |
-|      2009      | 汪益賢 | 睿智通                              |
-|      2010      | 林秉宏 | 國家實驗研究院                      |
-|      2013      | 林宏軒 | 台達電(前工研院)                    |
-|      2013      | 單益章 | 基隆市立暖暖高級中學校長            |
+|      1999      | 陳隆彬 | 東海大學副教授 |
+|      2006      | 徐健智 | N.A. |
+|      2009      | 汪益賢 | 睿智通 |
+|      2010      | 林秉宏 | 國家實驗研究院 |
+|      2013      | 林宏軒 | 台達電(前工研院) |
+|      2013      | 單益章 | 基隆市立暖暖高級中學校長 |
 |      2018      | 魏廷翰 | Full Professor, Kochi University of Technology, Japan |
-|      2019      | 薛筑軒 | Senior Lecturer (Junior Associate Professor), JAIST, Japan |
-|      2020      | 曾汶傑 | 倍靈科技                            |
-|      2020      | 吳廸融 | 中研院資訊所助研究員                |
-|      2021      | 胡凱鈞 | 聯發科                              |
-|      2022      |  桂浤  | 中研院資訊所博士後研究員            |
-|      2023      | Cao Hoang Giang | 明志科技大學助理教授        |
-|      2023      |  施仲晉  | 中研院資訊所博士後研究員            |
-|      2025      |  唐士傑  | N.A.                              |
+|      2019      | 薛筑軒 | Senior Lecturer (a.k.a. Junior Associate Professor), JAIST, Japan |
+|      2020      | 曾汶傑 | 倍靈科技 |
+|      2020      | 吳廸融 | 中研院資訊所助研究員 |
+|      2021      | 胡凱鈞 | 聯發科 |
+|      2022      |  桂浤  | 中研院資訊所博士後研究員 |
+|      2023      | Cao Hoang Giang | 明志科技大學助理教授 |
+|      2023      | 施仲晉 | 中研院資訊所博士後研究員 |
+|      2025      | 唐士傑 | Postdoc, Kochi University of Technology, Japan |
+|      2025      | 何國豪 | 聯發科 |
+|      2025      | 林九州 | 新創公司 - 精靈之星 |
 
 | Master's Student |        |        |        |        |          |                 |                 |                  |        |
 | :--------------: | :----: | :----: | :----: | :----: | :------: | :-------------: | :-------------: | :--------------: | :----: |
@@ -98,7 +105,7 @@
 | Research Assistant | Period                     |
 | :----------------: | -------------------------- |
 |       陳彥吉       | 2021.01 - present (中研院) |
-|       何國豪       | 2018.04 - present          |
+|       何國豪       | 2018.04 - 2025.07          |
 |       黃柏維       | 2025.01 - 2025.04         |
 |        江凡        | 2023.07 - 2024.06          |
 |       吳岱霖       | 2023.10 - 2024.05         |
