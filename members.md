@@ -15,20 +15,16 @@
 |      孟昶緻      | mcc.cs11@nycu.edu.tw     |
 |      劉順松      | lss.cs14@nycu.edu.tw     |
 |      鄭美慧      | miranda.cs14@nycu.edu.tw |
+|     郭建廷      | gjt.cs13@nycu.edu.tw          |
+|     陳幸妤	      | cindychen20030212@gmail.com   |
+|     楊右宇      | royyang901203@gmail.com       |
 
 | Master Students | Email                        |
 | :-------------: | ---------------------------- |
 |     李駿逸      | gcobs070796@gmail.com         |
-|     林其璜      | luke123132112@gmail.com       |
-|     邱恆毅      | 5542045aa@gmail.com           |
 |     王瑞渝      | rabbit922w@gmail.com          |
-|     蔡昀叡      | b08202011.cs12@nycu.edu.tw    |
-|     陳建樺      | x21530317x@gmail.com          |
-|     張孝全      | zekeabc@gmail.com             |
 |     李任本耀    | bod.lee.ee13@nycu.edu.tw      |
 |     羅凱威      | a23202418@gmail.com           |
-|     郭建廷      | gjt.cs13@nycu.edu.tw          |
-|     楊右宇      | royyang901203@gmail.com       |
 |     李謙蓉      | vicki122334567@gmail.com      |
 |     黃竑睿      | rayhuang0901.cs13@nycu.edu.tw |
 |     黃聖祐      | shengyouhuang620@gmail.com    |
@@ -38,7 +34,6 @@
 |     王駿睿	  | wang.ray0321.cs13@nycu.edu.tw |
 |     蘇暐中	  | st1020575@gmail.com           |
 |     傅莉妮	  | yfni.cs10@nycu.edu.tw         |
-|     陳幸妤	  | cindychen20030212@gmail.com   |
 |     李宇哲	  | lijason9195@gmail.com         |
 
 ## Alumni (in graduate years; including on-the-job program)
@@ -95,6 +90,7 @@
 |       2022       | 許博鈞 |  江凡  | 鄭紹雄 | 高誌佑 |  郭奎廷  |     巫佶翰      |     徐玉山      |                  |        |
 |       2023       | 陳俊融 | 戴宏明 |  李頤  | 秦睿德 |  吳岱霖  |   宋得榮    |   李政毅     |   施囿維    |  桃公信   |
 |       2024       | 鄭睿宇 | 廖唯辰 | 彭沛鈞 | 陳昱丞 | 黃柏維 |      |      |      |      |
+|       2025       | 林其璜 | 邱恆毅 | 蔡昀叡 | 陳建樺 | 張孝全 |      |      |      |      |
 
 ## Assistant
 
@@ -104,6 +100,7 @@
 
 | Research Assistant | Period                     |
 | :----------------: | -------------------------- |
+|       林其璜       | 2025.11 - present          |
 |       陳彥吉       | 2021.01 - present (中研院) |
 |       何國豪       | 2018.04 - 2025.07          |
 |       黃柏維       | 2025.01 - 2025.04         |
@@ -122,3 +119,4 @@
 |       吳慈仁       | 2017.09 - 2018.12          |
 
 [cgilab]: https://cgilab-tw.github.io/
+
