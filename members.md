@@ -16,8 +16,8 @@
 |      劉順松      | lss.cs14@nycu.edu.tw     |
 |      鄭美慧      | miranda.cs14@nycu.edu.tw |
 |     郭建廷      | gjt.cs13@nycu.edu.tw          |
-|     陳幸妤	      | cindychen20030212@gmail.com   |
 |     楊右宇      | royyang901203@gmail.com       |
+|     陳幸妤	      | cindychen20030212@gmail.com   |
 
 | Master Students | Email                        |
 | :-------------: | ---------------------------- |
@@ -119,4 +119,5 @@
 |       吳慈仁       | 2017.09 - 2018.12          |
 
 [cgilab]: https://cgilab-tw.github.io/
+
 
