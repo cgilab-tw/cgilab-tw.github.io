@@ -13,7 +13,6 @@
 |      朱孝紋      | wish8642@gmail.com       |
 | Markus Fjellheim | markus@fjellheim.org    |
 |      孟昶緻      | mcc.cs11@nycu.edu.tw     |
-|      劉順松      | lss.cs14@nycu.edu.tw     |
 |      鄭美慧      | miranda.cs14@nycu.edu.tw |
 |     郭建廷      | gjt.cs13@nycu.edu.tw          |
 |     楊右宇      | royyang901203@gmail.com       |
