@@ -21,12 +21,10 @@
 | Master Students | Email                        |
 | :-------------: | ---------------------------- |
 |     李駿逸      | gcobs070796@gmail.com         |
-|     王瑞渝      | rabbit922w@gmail.com          |
 |     李任本耀    | bod.lee.ee13@nycu.edu.tw      |
 |     羅凱威      | a23202418@gmail.com           |
 |     李謙蓉      | vicki122334567@gmail.com      |
 |     黃竑睿      | rayhuang0901.cs13@nycu.edu.tw |
-|     黃聖祐      | shengyouhuang620@gmail.com    |
 |     張子中      | david97099@gmail.com          |
 |     林冠宇	  | ericlin.cs13@nycu.edu.tw      |
 |     洪淵傳	  | yhdtoaomw@gmail.com           |
@@ -34,6 +32,12 @@
 |     蘇暐中	  | st1020575@gmail.com           |
 |     傅莉妮	  | yfni.cs10@nycu.edu.tw         |
 |     李宇哲	  | lijason9195@gmail.com         |
+|     何喬熒	  | qiaoyinghe.cs@gmail.com       |
+|     黃品翰	  | hanshuangfs@gmail.com         |
+|     陳毅恩	  | ryan531chen@gmail.com         |
+|     林李奕	  | 2056roy@gmail.com             |
+|     林立山	  | easonlin.lls@gmail.com        |
+|     白崇彣	  | yunalove9021.cs15@nycu.edu.tw |
 
 ## Alumni (in graduate years; including on-the-job program)
 
@@ -50,10 +54,10 @@
 |      2020      | 曾汶傑 | 倍靈科技 |
 |      2020      | 吳廸融 | 中研院資訊所助研究員 |
 |      2021      | 胡凱鈞 | 聯發科 |
-|      2022      |  桂浤  | 國立陽明交通大學智慧科學暨綠能學院助理教授 (前: 中研院資訊所博士後研究員) |
+|      2022      |  桂浤  | 國立陽明交通大學智慧科學暨綠能學院助理教授 |
 |      2023      | Cao Hoang Giang | 明志科技大學助理教授 |
-|      2023      | 施仲晉 | 國立中正大學資訊工程學系助理教授 (前: 中研院資訊所博士後研究員) |
-|      2025      | 唐士傑 | Postdoc, Kochi University of Technology, Japan |
+|      2023      | 施仲晉 | 國立中正大學資訊工程學系助理教授 |
+|      2025      | 唐士傑 | 國立成功大學工程科學系 |
 |      2025      | 何國豪 | 聯發科 |
 |      2025      | 林九州 | 新創公司 - 精靈之星 |
 
@@ -90,6 +94,7 @@
 |       2023       | 陳俊融 | 戴宏明 |  李頤  | 秦睿德 |  吳岱霖  |   宋得榮    |   李政毅     |   施囿維    |  桃公信   |
 |       2024       | 鄭睿宇 | 廖唯辰 | 彭沛鈞 | 陳昱丞 | 黃柏維 |      |      |      |      |
 |       2025       | 林其璜 | 邱恆毅 | 蔡昀叡 | 陳建樺 | 張孝全 |      |      |      |      |
+|       2026       | 王瑞渝 | 黃聖祐 |      |      |      |      |      |      |      |
 
 ## Assistant
 
