@@ -52,7 +52,7 @@
 |      2018      | 魏廷翰 | Full Professor, Kochi University of Technology, Japan |
 |      2019      | 薛筑軒 | Senior Lecturer (a.k.a. Junior Associate Professor), JAIST, Japan |
 |      2020      | 曾汶傑 | 倍靈科技 |
-|      2020      | 吳廸融 | 中研院資訊所助研究員 |
+|      2020      | 吳廸融 | 中研院資訊所副研究員 |
 |      2021      | 胡凱鈞 | 聯發科 |
 |      2022      |  桂浤  | 國立陽明交通大學智慧科學暨綠能學院助理教授 |
 |      2023      | Cao Hoang Giang | 明志科技大學助理教授 |
