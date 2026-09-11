@@ -17,6 +17,7 @@
 |     郭建廷      | gjt.cs13@nycu.edu.tw          |
 |     楊右宇      | royyang901203@gmail.com       |
 |     陳幸妤	      | cindychen20030212@gmail.com   |
+|     李玉璽	      | dannyleoj1d@gmail.com   |
 
 | Master Students | Email                        |
 | :-------------: | ---------------------------- |
